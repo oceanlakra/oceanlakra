@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ocean Lakra</h1>
 <h3 align="center">A passionate Web developer & Computer Science Student from India</h3>
 
-- 🔭 I’m currently working on [Air Mouse](https://github.com/oceanlakra/air-mouse)
+- 🔭 I’m currently working on [Stocker](https://github.com/oceanlakra/stocker-UVO)
 
-- 🌱 I’m currently learning **OpenCV, Django**
+- 🌱 I’m currently learning **Docker, Azure**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-liard-one-86.vercel.app/](https://my-portfolio-liard-one-86.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mono-portfolio-kappa.vercel.app/](https://mono-portfolio-kappa.vercel.app/)
 
-- 💬 Ask me about **react, react-native, flask**
+- 💬 Ask me about **React, PyTorch, flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oceanlakra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oceanlakra" height="30" width="40" /></a>
-<a href="https://instagram.com/oceanlakra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oceanlakra" height="30" width="40" /></a>
+<a href="https://instagram.com/oceanlkra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oceanlakra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
